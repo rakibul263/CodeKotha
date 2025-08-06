@@ -1,0 +1,8 @@
+// BangLang Direct Execution Output
+// ================================
+
+Program Output:
+==============
+1
+0
+13
